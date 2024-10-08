@@ -109,6 +109,9 @@ Este projeto pode ser usado em diversos contextos para ensinar ou demonstrar a *
 - *Complexidade de Sincronização*: Lidar com vários eventos simultâneos pode aumentar a complexidade do software, exigindo cuidado para evitar condições de corrida.
 - *Efeitos em Cascata*: Uma série de eventos interconectados pode tornar difícil prever o resultado e o estado do sistema.
 
+## Menti - Perguntas
+[Mentimeter](https://www.mentimeter.com/app/presentation/n/alurvh2q1ged6gzrq4xzxahgi1v5rhi4/edit?question=xg42qoxv8rnf)
+
 ## Autores
 - André - 30003032
 - Ewerton B. Ramos - 30189098
