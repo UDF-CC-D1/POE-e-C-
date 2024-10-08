@@ -90,7 +90,7 @@ Este projeto é um exemplo claro de *programação orientada a eventos*. Abaixo 
 - O semáforo começa no *verde* e permanece assim até que o botão do pedestre seja pressionado.
 - Ao pressionar o botão:
   - Espera *10 segundos* e então muda para *amarelo*.
-  - Após *5 segundos, muda para **vermelho*.
+  - Após *5 segundos*, muda para *vermelho*.
   - Permanece no *vermelho* por *20 segundos* antes de voltar ao *verde*.
   
 - A interface também exibe um *contador regressivo* indicando o tempo restante para a próxima mudança de luz.
