@@ -118,3 +118,4 @@ Este projeto pode ser usado em diversos contextos para ensinar ou demonstrar a *
 - João Marcos - 30620406
 - Miguel - 30129061
 - Pedro Oliveira - 29988080
+- Juan Farias Vaz - 30289955
